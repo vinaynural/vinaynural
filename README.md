@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👨‍💻 Vinayagam D
+# 👨‍💻 Vinayagam 
 ### Backend Engineer · Python · Django · Chennai 🇮🇳
 
 > *"The cosmos is within us. We are made of star-stuff — and so is my code."*
