@@ -2,19 +2,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:001a00&height=180&section=header&text=VINAYAGAM%20D&fontSize=55&fontColor=00FF41&animation=fadeIn&fontAlignY=55&desc=Backend%20Engineer%20%7C%20Python%20%7C%20Django%20%7C%20Chennai%20🇮🇳&descAlignY=75&descSize=16&descFontColor=00cc33" width="100%"/>
+# 👨‍💻 Vinayagam D
+### Backend Engineer · Python · Django · Chennai 🇮🇳
 
-<br/>
+> *"The cosmos is within us. We are made of star-stuff — and so is my code."*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=600&height=45&lines=🛰️+Self-Taught+→+Production+Engineer;🌌+Inspired+by+Space+%26+Systems+Thinking;⚡+200K%2B+Users+%7C+99%25+Uptime+%7C+8%2B+Backends;🧠+Architect+%7C+Mentor+%7C+Builder)](https://git.io/typing-svg)
-
-<br/>
-
-> ### `"The cosmos is within us. We are made of star-stuff — and so is my code."`
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=vinaynural&style=flat-square&color=00FF41&label=👁️+PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=vinaynural&style=flat-square&color=00FF41&label=Profile+Views)
 
 </div>
 
@@ -155,6 +148,6 @@ $ vinayagam --status --verbose
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:001a00,100:000000&height=120&section=footer&text=From+factory+floors+to+production+servers.&fontSize=18&fontColor=00FF41&animation=fadeIn&fontAlignY=45&desc=I+didn't+wait+for+permission+to+become+an+engineer.+—+Vinayagam+D&descAlignY=70&descSize=13&descFontColor=00cc33" width="100%"/>
+
 
 </div>
