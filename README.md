@@ -58,7 +58,7 @@ class VinayagamD:
 
 ## 🌌 &nbsp;Contribution Map
 
-![Snake animation](https://raw.githubusercontent.com/vinaynural/vinaynural/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinaynural&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </td>
 </tr>
