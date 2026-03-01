@@ -1,18 +1,10 @@
-
 <!-- VINAYAGAM D | GITHUB PROFILE README -->
 
 <div align="center">
 
-```
-██╗   ██╗██╗███╗   ██╗ █████╗ ██╗   ██╗ █████╗  ██████╗  █████╗ ███╗   ███╗
-██║   ██║██║████╗  ██║██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝ ██╔══██╗████╗ ████║
-██║   ██║██║██╔██╗ ██║███████║ ╚████╔╝ ███████║██║  ███╗███████║██╔████╔██║
-╚██╗ ██╔╝██║██║╚██╗██║██╔══██║  ╚██╔╝  ██╔══██║██║   ██║██╔══██║██║╚██╔╝██║
- ╚████╔╝ ██║██║ ╚████║██║  ██║   ██║   ██║  ██║╚██████╔╝██║  ██║██║ ╚═╝ ██║
-  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Vinayagam%20D&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Python%20%7C%20Django&descAlignY=55&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Backend+Engineer+%7C+Python+%7C+Django;🌌+Space+Science+Enthusiast+%7C+Systems+Thinker;⚡+Self-Taught+%7C+200K%2B+Users+Served+%7C+99%25+Uptime" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=🚀+Backend+Engineer+%7C+Python+%7C+Django;🌌+Space+Science+Enthusiast+%7C+Systems+Thinker;⚡+Self-Taught+%7C+200K%2B+Users+Served+%7C+99%25+Uptime" alt="Typing SVG" />
 
 <br/>
 
@@ -103,7 +95,7 @@ MISSION TIMELINE ─────────────────────
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaynural&theme=matrix&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41" />
+<img src="https://streak-stats.demolab.com?user=vinaynural&theme=matrix&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&border=00FF41" />
 
 </div>
 
@@ -114,7 +106,7 @@ MISSION TIMELINE ─────────────────────
 ```bash
 $ vinayagam --status
 
-[██████████████████████░░] Building scalable SaaS @ Tramés
+[██████████████████████░░] Building scalable backends
 [████████████████░░░░░░░░] Exploring ML & AI systems
 [██████████░░░░░░░░░░░░░░] Contribution streak: ACTIVE 🟢
 [████████████████████░░░░] Space Science reading: ONGOING 🌌
@@ -146,6 +138,6 @@ System uptime: 99%+ | Coffee level: ∞ | Available: ALWAYS ✅
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-⭐ *If my work helped you, drop a star — it fuels the rocket.* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
 
 </div>
