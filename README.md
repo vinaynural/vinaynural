@@ -5,7 +5,7 @@
 # 👨‍💻 Vinayagam 
 ### Backend Engineer · Python · Django · Chennai 🇮🇳
 
-> *"The cosmos is within us. We are made of star-stuff — and so is my code."*
+> *"The cosmos is within us. We are made of star-stuff — and so is my code."*__
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vinaynural&style=flat-square&color=00FF41&label=Profile+Views)
 
