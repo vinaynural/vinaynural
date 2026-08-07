@@ -1,7 +1,7 @@
 ## Vinayagam
 
 Backend engineer. Physics, code, astronomy.
-Chennai, India · [orbica.space](https://orbica.space)
+Chennai, India · [vinay-engineer.me](https://vinay-engineer.me)
 
 I build backend systems, and occasionally point one at the sky.
 
@@ -55,4 +55,4 @@ Business API integration, automated payment flows, and volunteer management syst
 
 ---
 
-[Portfolio](https://orbica.space) · [ORCID](https://orcid.org/0009-0008-8362-1908)
+[Portfolio](https://vinay-engineer.me) · [LinkedIn](https://linkedin.com/in/vinjr) · [ORCID](https://orcid.org/0009-0008-8362-1908)
