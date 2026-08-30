@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hi, I'm Vinayagam 👋
+<img src="./banner.png" alt="Vinayagam banner" width="100%" />
 
-**Backend engineer. Physics, code, astronomy.**
+<br/>
 
-Chennai, India · [vinay-engineer.me](https://vinay-engineer.me)
-
-I build backend systems, and occasionally point one at the sky.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5ADC8C&center=true&vCenter=true&width=600&lines=Backend+engineer+by+day;Physics+%2B+astronomy+by+obsession;Currently+tracking+every+satellite+since+1957;Always+shipping+something" alt="Typing SVG" />
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/vinjr)
 [![Portfolio](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/wordpress.svg)](https://vinay-engineer.me)
@@ -23,6 +21,19 @@ I build backend systems, and occasionally point one at the sky.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/viny4/viny4/output/github-snake-dark.svg" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viny4&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viny4&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=viny4&theme=github-green-dark&hide_border=true" />
 </p>
 
 ---
