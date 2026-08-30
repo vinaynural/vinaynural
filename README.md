@@ -1,9 +1,29 @@
-## Vinayagam
+<div align="center">
 
-Backend engineer. Physics, code, astronomy.
+# Hi, I'm Vinayagam 👋
+
+**Backend engineer. Physics, code, astronomy.**
+
 Chennai, India · [vinay-engineer.me](https://vinay-engineer.me)
 
 I build backend systems, and occasionally point one at the sky.
+
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/vinjr)
+[![Portfolio](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/wordpress.svg)](https://vinay-engineer.me)
+
+</div>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,go,js,cs,django,fastapi,nestjs,express,nextjs,postgres,neo4j,redis,prisma,docker,cloudflare,aws,grafana,githubactions" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/viny4/viny4/output/github-snake-dark.svg" />
+</p>
 
 ---
 
@@ -55,4 +75,8 @@ Business API integration, automated payment flows, and volunteer management syst
 
 ---
 
+<div align="center">
+
 [Portfolio](https://vinay-engineer.me) · [LinkedIn](https://linkedin.com/in/vinjr) · [ORCID](https://orcid.org/0009-0008-8362-1908)
+
+</div>
