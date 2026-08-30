@@ -6,8 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=5ADC8C&center=true&vCenter=true&width=600&lines=Backend+engineer+by+day;Physics+%2B+astronomy+by+obsession;Currently+tracking+every+satellite+since+1957;Always+shipping+something" alt="Typing SVG" />
 
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/vinjr)
-[![Portfolio](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/wordpress.svg)](https://vinay-engineer.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinjr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vinay--engineer.me-5ADC8C?style=for-the-badge&logo=vercel&logoColor=black)](https://vinay-engineer.me)
 
 </div>
 
@@ -28,7 +28,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viny4&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=viny4&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viny4&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
